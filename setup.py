@@ -5,7 +5,7 @@ with open("README.md",'r') as fh:
 
 setup(
 	name='mallu',
-	version='0.1.3', # PEP440
+	version='0.1.4', # PEP440
 	description='Package for easier Machine Learning Workflow.',
 	long_description=long_description,
 	long_description_content_type="text/markdown",
