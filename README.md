@@ -29,7 +29,13 @@ Please follow the following information for using the module for the first time.
   - see function docs for more info.
 
 
+<<<<<<< HEAD
 # Coming Features in the next version!
+=======
+'''sh
+pip install mallu
+'''
+>>>>>>> f51added3b6ce356ddae0411a8f3303fd733da4d
 
   - New module called 'stats' will be added with Hypothesis Testing Support
   - RunAll function will provide support for regression algorithms as well
