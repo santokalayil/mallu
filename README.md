@@ -47,12 +47,12 @@ Mallu internally import uses other machine learning related libraries.
 
 | Libraries | README |
 | ------ | ------ |
-| sklearn | [machine learning][PlDb] |
-| lightgbm | [LIght Gradient Boosting ML Algorithm][PlGh] |
-| xgboost | [Xtreme Gradient Boosting ML Alogirthm][PlGd] |
-| numpy | [Numerical Python for faster execution of the code in multi-dimentional arrays][PlOd] |
-| pandas | [Library for viewing data in tables and doing Data Analysis][PlMe] |
-| scipy.stats | [Library often used for Statistics][PlGa] |
+| sklearn | machine learning |
+| lightgbm | LIght Gradient Boosting ML Algorithm |
+| xgboost | Xtreme Gradient Boosting ML Alogirthm |
+| numpy | Numerical Python for faster execution of the code in multi-dimentional arrays |
+| pandas | Library for viewing data in tables and doing Data Analysis |
+| scipy.stats | Library often used for Statistics |
 
 
 ### Development
