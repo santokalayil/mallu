@@ -30,7 +30,6 @@ Please follow the following information for using the module for the first time.
 
 
 ## Coming Features in the next version!
-=======
 
   - New module called 'stats' will be added with Hypothesis Testing Support
   - RunAll function will provide support for regression algorithms as well
@@ -44,9 +43,9 @@ You will be able to:
 
 ### Imports
 
-Mallu internally import uses other machine learning related libaries.
+Mallu internally import uses other machine learning related libraries.
 
-| Libaries | README |
+| Libraries | README |
 | ------ | ------ |
 | sklearn | [machine learning][PlDb] |
 | lightgbm | [LIght Gradient Boosting ML Algorithm][PlGh] |
