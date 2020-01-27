@@ -6,7 +6,7 @@ This project is a python module for making machine learning workflow easier than
 
 Run the following to install:
 
-'''bash
+'''sh
 pip install mallu
 '''
 
