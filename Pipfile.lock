@@ -66,6 +66,7 @@
                 "sha256:ed2df83f1247b03fbc0362f5ffbf6f8bd76d02a7e0ebfef3be1ead39683ca10d"
             ],
             "version": "==0.9.0"
+
         },
         "imblearn": {
             "hashes": [
@@ -302,6 +303,7 @@
             ],
             "index": "pypi",
             "version": "==9.0.1"
+
         },
         "plotly": {
             "hashes": [
